@@ -1,0 +1,28 @@
+제한사항
+
+1. 상업적인 용도로 사용하지 않기: 이 프로젝트는 교육적인 목적으로 클론 코딩한 것으로, 상업적인 용도로 사용해서는 안 됩니다.
+
+2. 소스 코드의 공개: 이 프로젝트는 교육적인 목적으로 클론 코딩한 것이며, 원본 소스 코드를 사용하지 않았습니다. 따라서, 소스 코드를 공개할 의무는 없습니다.
+
+3. 원본 플랫폼의 저작권 존중: 이 프로젝트는 원본 플랫폼의 디자인과 기능을 참고하여 구현한 것이지만, 원본 플랫폼(주식회사 원티드랩)의 저작권을 침해하지 않도록 주의해야 합니다.
+
+4. 클론 코딩의 학습 목적: 이 프로젝트는 클론 코딩을 통해 개인적인 학습 및 연습 목적으로 제작되었습니다. 상업적인 용도로 사용하거나 배포해서는 안 됩니다.
+
+5. 원작자 정보 표기: 이 프로젝트에서는 원본 플랫폼의 원작자 정보를 README 파일 등에 명시하고, 원본 플랫폼의 저작권을 존중하는 것을 권장합니다.
+
+Limitations
+
+1. Non-commercial use: This project is a clone of a platform created for educational purposes and should not be used for commercial purposes.
+
+2. Source code disclosure: This project is a clone implementation, and the original source code is not used. Therefore, there is no obligation to disclose the source code.
+
+3. Respect the original platform's copyright: Although this project is a replica inspired by the design and functionality of the original platform, it is important to respect the copyright of the original platform and avoid any infringement.
+
+4. Educational purpose of clone coding: This project is intended for personal learning and practice through clone coding. It should not be used or distributed for commercial purposes.
+
+5. Attribution of original authors: It is recommended to include the information of the original platform's creators(WANTEDLAB Inc) in the README file or other documentation and respect their copyright.
+
+
+
+
+
