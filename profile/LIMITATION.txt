@@ -21,8 +21,3 @@ Limitations
 4. Educational purpose of clone coding: This project is intended for personal learning and practice through clone coding. It should not be used or distributed for commercial purposes.
 
 5. Attribution of original authors: It is recommended to include the information of the original platform's creators(WANTEDLAB Inc) in the README file or other documentation and respect their copyright.
-
-
-
-
-
